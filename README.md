@@ -28,7 +28,8 @@
 
 <h2>:chart: Stats:</h2>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgertz&" alt="mgertz" /></p>
+<!-- <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgertz&" alt="mgertz" /></p> -->
+<p style="text-align: center;">[![GitHub Streak](https://streak-stats.demolab.com/?user=mgertz&theme=dark)](https://git.io/streak-stats)</p>p>
 
 <p style="text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgertz&show_icons=true&locale=en" alt="mgertz" /></p>
 
@@ -41,5 +42,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgertz" alt="mgertz" /></a> </p>
 -->
+
 
 ![](https://komarev.com/ghpvc/?username=mgertz&label=Profile%20views&color=0e75b6&style=flat)
