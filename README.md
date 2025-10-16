@@ -10,7 +10,7 @@
 
  - :book: I'm, studying Software Engineering at the University of Southern Denmark <br> (SDU)
 
- - :calendar: I'm 39, and still learning.
+ - :calendar: I'm 41, and still learning.
 
  - :seedling: I love playing around with new technologies. Lately, I have been diving into DevOps, Kubernetes and GitHub Actions.
 
@@ -31,6 +31,8 @@
 <!-- <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgertz&" alt="mgertz" /></p> -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mgertz)](https://git.io/streak-stats)
 
+<p style="text-align: center;"><img align="center" src="https://streak-stats.demolab.com/?user=mgertz" alt="mgertz" /></p>
+
 <p style="text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgertz&show_icons=true&locale=en" alt="mgertz" /></p>
 
 <p style="text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgertz&show_icons=true&locale=en&layout=compact" alt="mgertz" /></p>
@@ -45,4 +47,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=mgertz&label=Profile%20views&color=0e75b6&style=flat)
+
 
