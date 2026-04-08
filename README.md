@@ -22,7 +22,7 @@ This is my little github universe, I primarely use github for storing my coding 
 ## :envelope: Contact:
 
  - :link: [LinkedIn Profile](https://www.linkedin.com/in/michael-ringhus-gertz)
- - :mail: [EMail me](mailto:michael@ringhus.dk)
+ - :email: [EMail me](mailto:michael@ringhus.dk)
 
  
 
