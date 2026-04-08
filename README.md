@@ -3,7 +3,7 @@
 
 This is my little github universe, I primarely use github for storing my coding projects. Some are public, some are private. Take a look around.
 
-## :man: Who am I?:
+## :man_beard: Who am I?:
 
 **A passionated FullStack and DevOps Engineer**
 
@@ -21,8 +21,9 @@ This is my little github universe, I primarely use github for storing my coding 
 
 ## :letter: Contact:
 
- - :linkedin: [LinkedIn Profile](https://www.linkedin.com/in/michael-ringhus-gertz)
- - :mailbox: Feel free to contact me, if you have any questions.
+ - :link: [LinkedIn Profile](https://www.linkedin.com/in/michael-ringhus-gertz)
+ - :mail: [EMail me](mailto:michael@ringhus.dk)
+
  
 
 ## Technologies:
