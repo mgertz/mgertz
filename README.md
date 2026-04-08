@@ -57,32 +57,8 @@ I work with a wide set of languages, frameworks, cloud and DevOps tools — the 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgertz&theme=github&grid=false&hide_title=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mgertz&theme=onedark)
+![GitHub Streak](https://streak-stats.demolab.com?user=mgertz&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1200&card_height=300)
 
-
-
-
-
-<!-- <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgertz&" alt="mgertz" /></p> -->
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mgertz)](https://git.io/streak-stats)
-
-<p style="text-align: center;"><img align="center" src="https://streak-stats.demolab.com/?user=mgertz" alt="mgertz" /></p>
--->
-<p style="text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgertz&show_icons=true&locale=en" alt="mgertz" /></p>
-
-<p style="text-align: center;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgertz&show_icons=true&locale=en&layout=compact" alt="mgertz" /></p>
-
-
-<!--
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MGertz&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgertz" alt="mgertz" /></a> </p>
--->
-
-
-![](https://komarev.com/ghpvc/?username=mgertz&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
