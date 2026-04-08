@@ -7,8 +7,6 @@ This is my little github universe, I primarely use github for storing my coding 
 
 **A passionated FullStack and DevOps Engineer**
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/MGertz/MGertz/main/images/coder.gif">
-
  - :book: I'm, currently writing my master thesis for my Master in Software Engineering at the University of Southern Denmark (SDU)
 
  - :calendar: I'm 42, and still learning.
@@ -18,6 +16,9 @@ This is my little github universe, I primarely use github for storing my coding 
  - :coffee: Throughout my studies and projects I primarily work with Java and Python. I build backend services and APIs with Java (Spring / Spring Boot) and write automation, tooling and data-processing scripts in Python.
 
  - :golf: In my free time I like to go play a round of golf.
+
+![Coding](https://raw.githubusercontent.com/MGertz/MGertz/main/images/coder.gif)
+
 
 ## :envelope: Contact:
 
@@ -53,6 +54,14 @@ I work with a wide set of languages, frameworks, cloud and DevOps tools — the 
 
 
 ## :chart: Stats:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgertz&theme=github&grid=false&hide_title=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mgertz&theme=onedark)
+
+
+
+
 
 <!-- <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgertz&" alt="mgertz" /></p> -->
 <!--
