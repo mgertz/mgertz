@@ -1,7 +1,9 @@
 
-<h1 align="center">:wave: Hi, I'm Michael Ringhus Gertz</h1>
+# :wave: Hi, I'm Michael Ringhus Gertz
 
-<h2>:man: About me:</h2>
+This is my little github universe, I primarely use github for storing my coding projects. Some are public, some are private. Take a look around.
+
+## :man: about me:
 
 <h3 align="center">A passionated FullStack and DevOps Engineer</h3>
 
