@@ -19,7 +19,7 @@ This is my little github universe, I primarely use github for storing my coding 
 
  - :golf: In my free time I like to go play a round of golf.
 
-## :letter: Contact:
+## :envelope: Contact:
 
  - :link: [LinkedIn Profile](https://www.linkedin.com/in/michael-ringhus-gertz)
  - :mail: [EMail me](mailto:michael@ringhus.dk)
